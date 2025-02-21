@@ -1,0 +1,1 @@
+Elegí la licencia Apache 2.0 para mi repositorio porque permite que otros modifiquen y distribuyan el contenido, además de ofrecerme protección legal y limitar la responsabilidad
